@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">👋 Hello, I am Jakub Mazurek<br><br>Creative frontend developer from Lublin, Poland, specializing in React and TypeScript. Passionate about building sleek, interactive, and user-friendly digital experiences.</p>
+<p align="left"> <h4>👋 Hello, I am Jakub Mazurek </h4>
+  Creative frontend developer from Lublin, Poland, specializing in React and TypeScript. Passionate about building sleek, interactive, and user-friendly digital experiences.</p>
 
 ###
 
@@ -12,10 +13,10 @@
 
 <p align="left"><h4>🌟 What I'm Working On</h4>
   🔭 Building more AI-integrated applications<br>🌱 Learning advanced backend technologies<br>👯 Looking for internship opportunities to gain real-world experience<br>
-  💡 Always exploring new frameworks and tools<br><br>
+  💡 Always exploring new frameworks and tools<br>
   
   <h4>💼 Let's Connect </h4>
-  🌐 Portfolio: jakubmazurek.vercel.app<br>📧 Email: jakubmazurek08@gmail.com<br>🇵🇱 Location: Lublin, Poland<br>💬 Languages: Polish (Native), English (B2+)</p>
+  🌐 Portfolio: jakubmazurek.vercel.app<br>🇵🇱 Location: Lublin, Poland<br>💬 Languages: Polish (Native), English (B2+)</p>
 
 ###
 
