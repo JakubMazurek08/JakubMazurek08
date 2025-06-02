@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">🌟 What I'm Working On<br><br>🔭 Building more AI-integrated applications<br>🌱 Learning advanced backend technologies<br>👯 Looking for internship opportunities to gain real-world experience<br>💡 Always exploring new frameworks and tools<br><br>💼 Let's Connect<br><br>🌐 Portfolio: jakubmazurek.vercel.app<br>📧 Email: jakubmazurek08@gmail.com<br>🇵🇱 Location: Lublin, Poland<br>💬 Languages: Polish (Native), English (B2+)</p>
+<p align="left"><h4>🌟 What I'm Working On</h4>
+  🔭 Building more AI-integrated applications<br>🌱 Learning advanced backend technologies<br>👯 Looking for internship opportunities to gain real-world experience<br>
+  💡 Always exploring new frameworks and tools<br><br>
+  
+  <h4>💼 Let's Connect </h4>
+  🌐 Portfolio: jakubmazurek.vercel.app<br>📧 Email: jakubmazurek08@gmail.com<br>🇵🇱 Location: Lublin, Poland<br>💬 Languages: Polish (Native), English (B2+)</p>
 
 ###
 
